@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 headline: "JPM v1"
 description: "仅仅一行代码, 立刻完成安装."
+github:
+  exe_url: "https://jpm.jonjs.cn/JPM.exe"
